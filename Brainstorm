@@ -21,6 +21,20 @@ Institutions:
   Industry
     Commitments to change
     
-Problems
+Study
+  DN + Institutional Endorsement
+  SN + Institutional Endorsement
+  DN + No Endorsement
+  SN + No Endorsement
+  Institutional Endorsement only
+  
+  Institution:
+    Tyson Foods rebranding as a protein company
+
+  DV: Intention to eat less meat
+  Bonus DV: What is meat?
+
+  Primary Analysis: DV ~ norm*endorsement 
+
   
   
