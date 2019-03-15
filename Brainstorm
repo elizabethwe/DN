@@ -15,6 +15,7 @@ Social changes that are compatible with the values of the dominant system may be
 Institutions: 
   Government
     Political officials
+      Meeting with someone
     Cities
     Legal changes
       Legislation
@@ -26,19 +27,48 @@ Institutions:
     Commitments to change
     
 Study
-  DN + Institutional Endorsement
-  SN + Institutional Endorsement
-  DN + No Endorsement
-  SN + No Endorsement
-  Institutional Endorsement only
+
+  Measure preconformity/inevitability
+
+  Design
+    DN + Institutional Endorsement
+    DN + No Endorsement
+    Institutional Endorsement only
+
+  a) 
+    Institution: Industry
+      Tyson Foods rebranding as a protein company
+      
+    DV 
+      Intention to eat less meat
   
-  Institution:
-    Tyson Foods rebranding as a protein company
-
-  DV: Intention to eat less meat
+  b) 
+    Institution: Governmental
+      Public schols NYC, Bill de Blasio enforces Meatless Mondays at all public schools
+      
+    DV 
+      Attitude towards universal Meatless Mondays
+    
   Bonus DV: What is meat?
+  
+  c)
+    Institution: Symbolic (for what?)
+      Nike Endorsing Kaepernick kneeling (to draw attention to Black Lives Matter)
+      
+    DV
+      Support of peaceful protest
+      
+  d)
+    Institution: Social
+      Church of England wants people to use less plastic
+      
+    DV
+      Intentions to use less plastic (single use!)
+      
+      
+      
 
-  Primary Analysis: DV ~ norm*endorsement 
+  Primary Analysis: DV ~ cond 
   
 
 
